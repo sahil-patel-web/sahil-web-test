@@ -12,9 +12,9 @@ const Header = () => (
       <h1>
         <strong>Hey! I am Sahil.</strong> I am a MS 
         <br />
-        in Computer Science student 
+         in Computer Science student 
         <br />
-        at Columbia University in NYC.
+         at Columbia University in NYC.
       </h1>
     </div>
     <Footer />

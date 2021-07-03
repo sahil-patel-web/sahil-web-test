@@ -16,15 +16,12 @@ const Footer = () => (
         </li>
       </ul>  
       <ul className="copyright">
-        <li>
-          
-        </li> 
         <li>&copy; Gatsby Starter Strata</li>
         <li>
           <a href="https://www.gatsbyjs.com/starters/codebushi/gatsby-starter-strata">
           Design: 
           </a>
-          <a href="http://html5up.net">HTML5 UP</a>
+          <a href="http://html5up.net"> HTML5 UP</a>
         </li>
       </ul>
     </div>
