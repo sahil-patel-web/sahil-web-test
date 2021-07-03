@@ -12,11 +12,11 @@ const Header = () => (
       <h1>
         <strong>Hey! I am Sahil</strong>. I am a MS
         <br />
-        in Computer Science student at
+        student in Computer Science
         <br />
-        Columbia University. Prior to NYC,
+        at Columbia University. Before
         <br />
-        I was situated in LA and Houston.
+        NYC, I was in LA and Houston.
       </h1>
     </div>
     <Footer />

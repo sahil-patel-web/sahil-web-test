@@ -5,11 +5,6 @@ const Footer = () => (
     <div className="inner">
       <ul className="icons">
         <li>
-          <a href="404-513-8795" className="icon fa-mobile">
-            <span className="label">Phone</span>
-          </a>
-        </li>
-        <li>
           <a href="https://www.linkedin.com/in/sahil-patel-985744216/" className="icon fa-linkedin">
             <span className="label">LinkedIn</span>
           </a>
@@ -19,11 +14,9 @@ const Footer = () => (
             <span className="label">Email</span>
           </a>
         </li>
-      </ul>
-      <ul className="copyright2">
-        <li>Webpage info:</li>   
-      </ul>
+      </ul>  
       <ul className="copyright">
+        <li>Webpage info:</li> 
         <li>&copy; Gatsby Starter Strata</li>
         <li>
           Design: <a href="http://html5up.net">HTML5 UP</a>
