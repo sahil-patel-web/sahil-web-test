@@ -10,13 +10,11 @@ const Header = () => (
         <img src={avatar} alt="" />
       </a>
       <h1>
-        <strong>Hey! I am Sahil</strong>. I am a MS
+        <strong>Hey! I am Sahil.</strong> I am a MS
         <br />
-        student in Computer Science
+        in Computer Science student
         <br />
-        at Columbia University. Before
-        <br />
-        NYC, I was in LA and Houston.
+        at Columbia University in NYC.
       </h1>
     </div>
     <Footer />
