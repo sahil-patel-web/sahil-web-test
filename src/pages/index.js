@@ -19,7 +19,7 @@ const HomeIndex = () => {
         <section id="one">
           <header className="major">
             <h2>
-              I am a student, back-end dev and AI enthusiast.
+              I am a student and back-end development/AI enthusiast.
               <br />
               I believe in data and work to make Data Science accessible, either from teaching or from developing solutions.
             </h2>
