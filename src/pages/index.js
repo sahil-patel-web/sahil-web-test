@@ -21,8 +21,7 @@ const HomeIndex = () => {
             <h2>
               I am a student, back-end dev and AI enthusiast.
               <br />
-              I believe in data and work to make Data Science accessible, 
-              either from teaching or from developing solutions.
+              I believe in data and work to make Data Science accessible, either from teaching or from developing solutions.
             </h2>
           </header>
           <p>
