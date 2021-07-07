@@ -19,9 +19,7 @@ const HomeIndex = () => {
         <section id="one">
           <header className="major">
             <h2>
-              I am a student and back-end development/AI enthusiast.
-              <br />
-              I believe in data and work to make Data Science accessible, either from teaching or from developing solutions.
+              I am a student and back-end development/AI enthusiast. I believe in data and work to make Data Science accessible, either from teaching or from developing solutions.
             </h2>
           </header>
           <p>
@@ -42,17 +40,17 @@ const HomeIndex = () => {
         </section>
 
         <section id="two">
-          <h2>Recent Work</h2>
+          
+          <h2>Resume</h2>
 
-          <Gallery />
+          <iframe
+          src="https://drive.google.com/viewerng/viewer?embedded=true&url=https://drive.google.com/file/d/1TpLu8d1ihMkpYxg1EclgeQc4ivsvFe10/#toolbar=0&scrollbar=0"
+          frameBorder="0"
+          scrolling="auto"
+          height="100%"
+          width="100%"
+          ></iframe>
 
-          <ul className="actions">
-            <li>
-              <a href="#" className="button">
-                Full Portfolio
-              </a>
-            </li>
-          </ul>
         </section>
 
         <section id="three">
