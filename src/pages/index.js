@@ -43,7 +43,7 @@ const HomeIndex = () => {
           
           <h2>Resume</h2>
 
-          <iframe src="https://docs.google.com/gview?url=https://drive.google.com/file/d/1TpLu8d1ihMkpYxg1EclgeQc4ivsvFe10&embedded=true" style="width:600px; height:500px;" frameborder="0"></iframe>
+          <iframe src="https://docs.google.com/gview?url=https://drive.google.com/file/d/1TpLu8d1ihMkpYxg1EclgeQc4ivsvFe10/preview&embedded=true" style="width:600px; height:500px;" frameborder="0"></iframe>
 
         </section>
 
