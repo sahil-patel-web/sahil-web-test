@@ -5,12 +5,12 @@ const Footer = () => (
     <div className="inner">
       <ul className="icons">
         <li>
-          <a href="https://www.linkedin.com/in/sahil-patel-985744216/" className="icon fa-linkedin">
+          <a href="https://www.linkedin.com/in/sahil-patel-985744216/" className="icon-2x fa-linkedin">
             <span className="label">LinkedIn</span>
           </a>
         </li>
         <li>
-          <a href="mailto:sahil.patel@columbia.edu" className="icon fa-envelope-o">
+          <a href="mailto:sahil.patel@columbia.edu" className="icon-2x fa-envelope-o">
             <span className="label">Email</span>
           </a>
         </li>
