@@ -120,15 +120,14 @@ const HomeIndex = () => {
 
         <section id="three">
           <center>
-          <h2> <a href="mailto:sahil.patel@columbia.edu" Sahil Patel></a> </h2>
+          <h2> <a href="mailto:sahil.patel@columbia.edu"> Sahil Patel </a> </h2>
 
           <ul className="copyright">
-            &copy; Gatsby Starter Strata
+            &copy; Gatsby Starter Strata<br />
             
               <a href="https://www.gatsbyjs.com/starters/codebushi/gatsby-starter-strata">
                   Source  
               </a>
-              <a> </a>
               <a href="http://html5up.net"> HTML5 UP</a>
             
           </ul>
