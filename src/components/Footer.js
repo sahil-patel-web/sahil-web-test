@@ -5,7 +5,7 @@ const Footer = () => (
     <div className="inner">
       <ul className="icons">
         <li>
-          <a href="https://www.linkedin.com/in/sahil-patel-985744216/" className="icon fa-linkedin"d>
+          <a href="https://www.linkedin.com/in/sahil-patel-985744216/" className="icon fa-linkedin">
             <span className="label">LinkedIn</span>
           </a>
         </li>
