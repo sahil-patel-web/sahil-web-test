@@ -11,8 +11,8 @@ const Header = () => (
       </a>
       <h1>
         <strong>Hey! I am Sahil.</strong> I am a MS <br />
-         in Computer Science student <br />
-         at Columbia University in NYC.
+         Computer Science student at <br />
+         Columbia University.
       </h1>
     </div>
     <Footer />

@@ -117,6 +117,21 @@ const HomeIndex = () => {
             </div>
           </div>
         </section>
+
+        <section id="three">
+          <h2> Get in touch </h2>
+          <center>
+          <h2> <a href="mailto:sahil.patel@columbia.edu" className="icon fa-envelope-o"></a> </h2>
+          </center>
+          <p>
+            Accumsan pellentesque commodo blandit enim arcu non at amet id arcu
+            magna. Accumsan orci faucibus id eu lorem semper nunc nisi lorem
+            vulputate lorem neque lorem ipsum dolor.
+          </p>
+          
+        </section>
+
+
       </div>
     </Layout>
   )
