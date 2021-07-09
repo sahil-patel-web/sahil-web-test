@@ -60,7 +60,7 @@ const HomeIndex = () => {
 
         <section id="seven">
           <center>
-          <h2> <a href="mailto:sahil.patel@columbia.edu"> Sahil Patel </a> </h2>
+          <h2> <a href="mailto:spatel16300@gmail.com"> Sahil Patel </a> </h2>
           <ul className="copyright">
             &copy; Gatsby Starter Strata<br />
             
