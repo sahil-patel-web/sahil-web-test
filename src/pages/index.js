@@ -38,6 +38,19 @@ const HomeIndex = () => {
           </ul>
         </section>
 
+        <section id="two">
+          <h2>Bio</h2>
+          <p>
+            I am a proud American and a proud Immigrant. I grew up in India but my family and I migrated to America 
+            when I was 13 in 2012. After 4 years, 3 states, 6 apartments and 5 high schools, we finally found financial/familial structure 
+            in the Greater Houston area. In 2017, I joined TAMU's College of Engineering to complete my Bachelor's in Computer Science
+            along with a minor in Statistics. Finally, I moved to NYC to join the MSCS program at Columbia University. 
+          </p>
+          <p>
+          I enjoy running and cooking!
+          </p>
+        </section>
+
         <section id="three">
           <h2>Skills</h2>
         </section>
@@ -53,11 +66,9 @@ const HomeIndex = () => {
           <iframe src="https://drive.google.com/file/d/1TpLu8d1ihMkpYxg1EclgeQc4ivsvFe10/preview" width="770" height="990"></iframe>
         </section>
 
-        <section id="six">
-          <h2>Hobbies</h2>
-        </section>
+        
 
-        <section id="seven">
+        <section id="six">
           <center>
           <h2> <a href="mailto:spatel16300@gmail.com"> Sahil Patel </a> </h2>
           <ul className="copyright">
