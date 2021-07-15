@@ -40,15 +40,19 @@ const HomeIndex = () => {
 
         <section id="two">
           <h2>Bio</h2>
-          <h3>
-            I am a proud American and a proud Immigrant. I grew up in India but my family and I migrated to America 
-            when I was 13 in 2012. After 4 years, 3 states, 6 apartments and 5 high schools, we finally found financial/familial structure 
+          <p>
+            I am a proud American and a proud Immigrant. 
+            </p>
+          <p>
+            I grew up in India but my family and I migrated to America 
+            when I was 13. After 4 years, 3 states, 6 apartments and 5 high schools, we finally found financial/familial structure 
             after moving to the Greater Houston area. In 2017, I joined TAMU's College of Engineering to complete my Bachelor's in Computer Science
-            along with a minor in Statistics. Finally, I moved to NYC to join the MSCS program at Columbia University. 
-          </h3>
-          <h3>
-          I enjoy running and cooking!
-          </h3>
+            and a minor in Statistics. Finally, I moved to NYC to join the MSCS program at Columbia University. 
+          </p>
+
+          <p>
+            I enjoy running and cooking!
+          </p>
         </section>
 
         <section id="three">
