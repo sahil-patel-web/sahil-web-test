@@ -13,12 +13,12 @@ const HomeIndex = () => {
         <title>{siteTitle}</title>
         <meta name="description" content={siteDescription} />
       </Helmet>
-
+]
       <div id="main">
         <section id="one">
           <header className="major">
             <h2>
-              I am a student and back-end development/AI enthusiast. I believe in data and work to make Data Science accessible, either from teaching or from developing solutions.
+              I am a Back-end software, Data Science and ML enthusiast.
             </h2>
           </header>
           <p>
@@ -40,15 +40,15 @@ const HomeIndex = () => {
 
         <section id="two">
           <h2>Bio</h2>
-          <p>
+          <h3>
             I am a proud American and a proud Immigrant. I grew up in India but my family and I migrated to America 
             when I was 13 in 2012. After 4 years, 3 states, 6 apartments and 5 high schools, we finally found financial/familial structure 
-            in the Greater Houston area. In 2017, I joined TAMU's College of Engineering to complete my Bachelor's in Computer Science
+            after moving to the Greater Houston area. In 2017, I joined TAMU's College of Engineering to complete my Bachelor's in Computer Science
             along with a minor in Statistics. Finally, I moved to NYC to join the MSCS program at Columbia University. 
-          </p>
-          <p>
+          </h3>
+          <h3>
           I enjoy running and cooking!
-          </p>
+          </h3>
         </section>
 
         <section id="three">
