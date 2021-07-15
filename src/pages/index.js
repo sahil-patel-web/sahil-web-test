@@ -40,9 +40,8 @@ const HomeIndex = () => {
         <section id="two">
           <h2>Bio</h2>
           <p>
-            I am a proud American and a proud Immigrant. 
-          </p>
-          <p>
+            I am a proud American and a proud Immigrant. <br />
+          
             I grew up in India but my family and I migrated to America 
             when I was 13. After 4 years, 3 states, 6 apartments and 5 high schools, we finally found financial/familial structure 
             after moving to the Greater Houston area. In 2017, I joined TAMU's College of Engineering to complete my Bachelor's in Computer Science
@@ -72,9 +71,9 @@ const HomeIndex = () => {
 
         <section id="six">
           <center>
-          <h1>Sahil Patel  <br /> 
+          <p>Sahil Patel  <br /> 
           <a href="mailto:spatel16300@gmail.com"> spatel16300@gmail.com </a>
-          </h1>
+          </p>
 
           <ul className="copyright">
             &copy; Gatsby Starter Strata<br />
