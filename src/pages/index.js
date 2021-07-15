@@ -38,7 +38,7 @@ const HomeIndex = () => {
         </section>
 
         <section id="two">
-          <h1>Bio</h1>
+          <h2>Bio</h2>
           <p>
             I am a proud American and a proud Immigrant. 
           </p>
@@ -54,16 +54,16 @@ const HomeIndex = () => {
         </section>
 
         <section id="three">
-          <h1>Skills</h1>
+          <h2>Skills</h2>
         </section>
 
         <section id="four">
-          <h1>Projects</h1>
+          <h2>Projects</h2>
         </section>
         
         <section id="five">
           
-          <h1>Resume</h1>
+          <h2>Resume</h2>
 
           <iframe src="https://drive.google.com/file/d/1TpLu8d1ihMkpYxg1EclgeQc4ivsvFe10/preview" width="770" height="990"></iframe>
         </section>
@@ -72,8 +72,10 @@ const HomeIndex = () => {
 
         <section id="six">
           <center>
-          <h2>Sahil Patel</h2>
-          <p><a href="mailto:spatel16300@gmail.com"> spatel16300@gmail.com </a> </p>
+          <h1>Sahil Patel  <br /> 
+          <a href="mailto:spatel16300@gmail.com"> spatel16300@gmail.com </a>
+          </h1>
+
           <ul className="copyright">
             &copy; Gatsby Starter Strata<br />
             
