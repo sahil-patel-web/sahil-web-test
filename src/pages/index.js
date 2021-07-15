@@ -17,9 +17,9 @@ const HomeIndex = () => {
       <div id="main">
         <section id="one">
           <header className="major">
-            <h2>
+            <h1>
               I am a Back-end software, Data Science and ML enthusiast.
-            </h2>
+            </h1>
           </header>
           <p>
             I am currently working on . For my MSCS program, I also spend part of my 
@@ -40,8 +40,9 @@ const HomeIndex = () => {
         <section id="two">
           <h2>Bio</h2>
           <p>
-            I am a proud American and a proud Immigrant. <br />
-          
+            I am a proud American and a proud Immigrant. 
+          </p>
+          <p>
             I grew up in India but my family and I migrated to America 
             when I was 13. After 4 years, 3 states, 6 apartments and 5 high schools, we finally found financial/familial structure 
             after moving to the Greater Houston area. In 2017, I joined TAMU's College of Engineering to complete my Bachelor's in Computer Science
@@ -74,7 +75,7 @@ const HomeIndex = () => {
           <p>Sahil Patel  <br /> 
           <a href="mailto:spatel16300@gmail.com"> spatel16300@gmail.com </a>
           </p>
-
+          <sub>
           <ul className="copyright">
             &copy; Gatsby Starter Strata<br />
             
@@ -84,6 +85,7 @@ const HomeIndex = () => {
               <a href="http://html5up.net"> HTML5 UP</a>
             
           </ul>
+          </sub>
           </center>
         </section>
 
