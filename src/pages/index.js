@@ -22,13 +22,13 @@ const HomeIndex = () => {
 
           <p>
             I am a MSCS student at Columbia University under the ML/Thesis track. For this, I am currently working
-            on high-dimensional data manipulation techniques (Tensor Decomps) for noisy data information retrieval.  
+            on high-dimensional data information retrieval(Tensor Decomps) for noisy data.  
           </p>
           <p>
-            While I work on the MS Thesis, you can check out my undergradute thesis on Bayesian Network Identifiability <a href="#resume">here.</a>
+            While I work on my MS thesis, you can check out my undergradute thesis on Bayesian Network Identifiability <a href="#resume">here.</a>
           </p>
 
-          <p>
+          <br/>
           <ul className="actions">
             <li>
               <a href="#resume" className="button">
@@ -36,7 +36,7 @@ const HomeIndex = () => {
               </a>
             </li>
           </ul>
-          </p>
+          
         </section>
 
         <section id="two">
@@ -50,9 +50,7 @@ const HomeIndex = () => {
             after moving to the Greater Houston area. In 2017, I joined TAMU's College of Engineering to complete my Bachelor's in Computer Science
             and a minor in Statistics. Finally, I moved to NYC to join the MSCS program at Columbia University. 
           </p>
-          <p>
-            I enjoy running and cooking!
-          </p>
+          
         </section>
 
         <section id="three">
@@ -70,8 +68,12 @@ const HomeIndex = () => {
           <iframe src="https://drive.google.com/file/d/1TpLu8d1ihMkpYxg1EclgeQc4ivsvFe10/preview" width="770" height="990"></iframe>
         </section>
 
-        
-
+        <section id="special">
+          <h2>Hobbies</h2>
+          <p>
+            I enjoy running and cooking!
+          </p>
+        </section>
         <section id="six">
           <center>
           <p>Sahil Patel  <br /> 
