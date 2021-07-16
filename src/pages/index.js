@@ -21,7 +21,7 @@ const HomeIndex = () => {
             </h2>
 
           <p>
-            I am currently a MSCS student at Columbia University under the ML/Thesis track. For this, I am working
+            I am currently a MSCS student at Columbia University under the ML track. For the thesis, I am working
             on high-dimensional data information retrieval for noisy data. 
           </p>
           <p>
