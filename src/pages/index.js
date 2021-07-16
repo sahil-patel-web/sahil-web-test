@@ -21,18 +21,15 @@ const HomeIndex = () => {
             </h1>
 
           <p>
-            I am a MSCS student at Columbia University under the Machine Learning/Thesis track. I am currently working
-            on high-dimensional data 
-            
-            working on . For my MSCS program, I also spend part of my 
-            time at Columbia's Data Science Institute. 
-            
-            Prior to Columbia, I completed my bachelor's in Computer Science. My undergraduate thesis can be
-            found here.
+            I am a MSCS student at Columbia University under the ML/Thesis track. For this, I am currently working
+            on high-dimensional data manipulation techniques (Tensor Decomps) for noisy data information retrieval.  
+          </p>
+          <p>
+            While I work on the MS Thesis, you can check out my Undergradute thesis on Bayesian Network Identifiability <a href="#resume">here.</a>
           </p>
           <ul className="actions">
             <li>
-              <a href="#resume_div" className="button">
+              <a href="#resume" className="button">
                 Resume
               </a>
             </li>
@@ -64,7 +61,7 @@ const HomeIndex = () => {
         </section>
         
         <section id="five">
-        <div id="resume_div"></div>          
+        <div id="resume"></div>          
           <h2>Resume</h2>
 
           <iframe src="https://drive.google.com/file/d/1TpLu8d1ihMkpYxg1EclgeQc4ivsvFe10/preview" width="770" height="990"></iframe>
