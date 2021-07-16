@@ -14,6 +14,12 @@ const Header = () => (
          Computer Science student at <br />
          Columbia University.
       </h1>
+      <a href="https://www.linkedin.com/in/sahil-patel-985744216/" className="icon fa-linkedin">
+            <span className="label">LinkedIn</span>
+      </a>
+      <a href="mailto:spatel16300@gmail.com" className="icon fa-envelope-o">
+            <span className="label">Email</span>
+      </a>
     </div>
     <Footer />
   </header>
