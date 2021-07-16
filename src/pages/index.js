@@ -28,7 +28,7 @@ const HomeIndex = () => {
             While I work on the MS Thesis, you can check out my undergradute thesis on Bayesian Network Identifiability <a href="#resume">here.</a>
           </p>
 
-          <h2>
+          <p>
           <ul className="actions">
             <li>
               <a href="#resume" className="button">
@@ -36,7 +36,7 @@ const HomeIndex = () => {
               </a>
             </li>
           </ul>
-          </h2>
+          </p>
         </section>
 
         <section id="two">
