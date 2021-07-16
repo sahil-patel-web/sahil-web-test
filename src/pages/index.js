@@ -16,17 +16,19 @@ const HomeIndex = () => {
 ]
       <div id="main">
         <section id="one">
-            <h1>
+            <h2>
               I am a Back-end software, Data Science and ML enthusiast.
-            </h1>
+            </h2>
 
           <p>
             I am a MSCS student at Columbia University under the ML/Thesis track. For this, I am currently working
             on high-dimensional data manipulation techniques (Tensor Decomps) for noisy data information retrieval.  
           </p>
           <p>
-            While I work on the MS Thesis, you can check out my Undergradute thesis on Bayesian Network Identifiability <a href="#resume">here.</a>
+            While I work on the MS Thesis, you can check out my undergradute thesis on Bayesian Network Identifiability <a href="#resume">here.</a>
           </p>
+
+          <h2>
           <ul className="actions">
             <li>
               <a href="#resume" className="button">
@@ -34,10 +36,11 @@ const HomeIndex = () => {
               </a>
             </li>
           </ul>
+          </h2>
         </section>
 
         <section id="two">
-          <h1>About</h1>
+          <h2>About</h2>
           <p>
             I am a proud American and a proud Immigrant. 
           </p>
@@ -53,11 +56,11 @@ const HomeIndex = () => {
         </section>
 
         <section id="three">
-          <h1>Skills</h1>
+          <h2>Skills</h2>
         </section>
 
         <section id="four">
-          <h1>Projects</h1>
+          <h2>Projects</h2>
         </section>
         
         <section id="five">
