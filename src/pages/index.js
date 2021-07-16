@@ -25,7 +25,8 @@ const HomeIndex = () => {
             on high-dimensional data information retrieval for noisy data. 
           </p>
           <p>
-            While I work on my MS thesis, you can check out my undergrad thesis on Bayesian Network Identifiability <a href="#resume">here.</a>
+            While I work on my MS thesis, check out my undergrad thesis on Bayesian Network 
+            Identifiability <a href="https://drive.google.com/file/d/1TU7YuttlXNHp5jcboxy_kk83tj4ntfn2/preview">here.</a>
           </p>
 
           <br/>
