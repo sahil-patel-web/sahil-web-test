@@ -22,9 +22,8 @@ const HomeIndex = () => {
 
           <p>
             I am a MSCS student at Columbia University under the ML/Thesis track. For this, I am currently working
-            on high-dimensional data information retrieval(Tensor Decomps) for noisy data.  
-          </p>
-          <p>
+            on high-dimensional data information retrieval(Tensor Decomps) for noisy data. <br/>  
+          
             While I work on my MS thesis, you can check out my undergradute thesis on Bayesian Network Identifiability <a href="#resume">here.</a>
           </p>
 
