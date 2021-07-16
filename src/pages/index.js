@@ -16,11 +16,11 @@ const HomeIndex = () => {
 ]
       <div id="main">
         <section id="one">
-          <header className="major">
+         
             <h2>
               I am a Back-end software, Data Science and ML enthusiast.
             </h2>
-          </header>
+          
           <p>
             I am currently working on . For my MSCS program, I also spend part of my 
             time at Columbia's Data Science Institute. 
