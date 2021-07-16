@@ -16,13 +16,15 @@ const HomeIndex = () => {
 ]
       <div id="main">
         <section id="one">
-         
-            <h2>
+            <h1>
               I am a Back-end software, Data Science and ML enthusiast.
-            </h2>
-          
+            </h1>
+
           <p>
-            I am currently working on . For my MSCS program, I also spend part of my 
+            I am a MSCS student at Columbia University under the Machine Learning/Thesis track. I am currently working
+            on high-dimensional data 
+            
+            working on . For my MSCS program, I also spend part of my 
             time at Columbia's Data Science Institute. 
             
             Prior to Columbia, I completed my bachelor's in Computer Science. My undergraduate thesis can be
@@ -30,15 +32,15 @@ const HomeIndex = () => {
           </p>
           <ul className="actions">
             <li>
-              <a href="#" className="button">
-                Learn More
+              <a href="#resume_div" className="button">
+                Resume
               </a>
             </li>
           </ul>
         </section>
 
         <section id="two">
-          <h2>Bio</h2>
+          <h1>About</h1>
           <p>
             I am a proud American and a proud Immigrant. 
           </p>
@@ -54,15 +56,15 @@ const HomeIndex = () => {
         </section>
 
         <section id="three">
-          <h2>Skills</h2>
+          <h1>Skills</h1>
         </section>
 
         <section id="four">
-          <h2>Projects</h2>
+          <h1>Projects</h1>
         </section>
         
         <section id="five">
-          
+        <div id="resume_div"></div>          
           <h2>Resume</h2>
 
           <iframe src="https://drive.google.com/file/d/1TpLu8d1ihMkpYxg1EclgeQc4ivsvFe10/preview" width="770" height="990"></iframe>
