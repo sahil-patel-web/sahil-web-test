@@ -42,11 +42,12 @@ const HomeIndex = () => {
         </section>
 
         <section id="two">
-          <h2>About 
+          <h2>About</h2>
+          <center>              
               <a href="#" className="image avatar">
                 <img src={pic_12} alt="" />
               </a>
-          </h2>
+          </center>
           <p>
             I am a proud American and a proud Immigrant. 
           </p>
