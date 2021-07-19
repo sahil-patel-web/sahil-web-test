@@ -42,20 +42,20 @@ const HomeIndex = () => {
         </section>
 
         <section id="two">
-          <h2>About
             <div class="rounded--circle">
               <img src={pic_12} />
             </div>
+          <h2>About
+            
           </h2>
             
           <p>
             I am a proud American and a proud Immigrant. 
           </p>
           <p>
-            I grew up in India but my family and I migrated to America 
-            when I was 13. After 4 years, 3 states, 6 apartments and 5 high schools, we finally found financial/familial stability 
-            after moving to the Greater Houston area. In 2017, I started my Bachelor's in Computer Science
-            and a minor in Statistics at TAMU. Finally, I moved to NYC to join the MSCS program at Columbia University. 
+            I grew up in India but my family and I migrated to America when I was 13. After 4 years, 3 states and 5 high schools, we finally 
+            found financial/familial stability in the Greater Houston area. In 2017, I joined TAMU for my Bachelor's in Computer Science
+            and a minor in Statistics. Finally, I moved to NYC to join the MSCS program at Columbia University. 
           </p>
           
         </section>
