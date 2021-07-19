@@ -2,6 +2,7 @@ import React from 'react'
 import Helmet from 'react-helmet'
 
 import Layout from '../components/layout'
+import pic_12 from '../assets/images/pic_12.jpg'
 
 const HomeIndex = () => {
   const siteTitle = 'Sahil Patel'
