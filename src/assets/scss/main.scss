@@ -792,6 +792,9 @@
 	
 	.rounded--circle {
 	position: relative;
+	display:block;
+    margin-left: auto;
+    margin-right: auto;
 	width: 125px;
 	height: 125px;
 	overflow: hidden;

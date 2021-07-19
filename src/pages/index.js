@@ -55,9 +55,9 @@ const HomeIndex = () => {
           </p>
           <p>
             I grew up in India but my family and I migrated to America 
-            when I was 13. After 4 years, 3 states, 6 apartments and 5 high schools, we finally found financial/familial structure 
-            after moving to the Greater Houston area. In 2017, I joined TAMU's College of Engineering to complete my Bachelor's in Computer Science
-            and a minor in Statistics. Finally, I moved to NYC to join the MSCS program at Columbia University. 
+            when I was 13. After 4 years, 3 states, 6 apartments and 5 high schools, we finally found financial/familial stability 
+            after moving to the Greater Houston area. In 2017, I started my Bachelor's in Computer Science
+            and a minor in Statistics at TAMU. Finally, I moved to NYC to join the MSCS program at Columbia University. 
           </p>
           
         </section>
