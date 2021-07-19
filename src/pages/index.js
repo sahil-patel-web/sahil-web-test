@@ -44,7 +44,7 @@ const HomeIndex = () => {
         <section id="two">
           <h2>About</h2>
           <center>              
-              <a href="#" className="image avatar">
+              <a href="#">
                 <img src={pic_12} alt="" />
               </a>
           </center>
