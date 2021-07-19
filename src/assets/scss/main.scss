@@ -789,6 +789,20 @@
 			}
 		}
 	}
+	
+	.rounded--circle {
+	position: relative;
+	width: 200px;
+	height: 200px;
+	overflow: hidden;
+	border-radius: 50%;
+	}
+
+	.rounded--circle img {
+	width: 100%;
+	height: auto;
+	}
+
 
 /* Button */
 
@@ -945,18 +959,7 @@
 			margin: 0 0 (_size(element-margin) * 0.5) 0;
 			width: 6.25em;
 		}
-		.rounded--circle {
-		  position: relative;
-		  width: 200px;
-		  height: 200px;
-		  overflow: hidden;
-		  border-radius: 50%;
-		}
 
-		.rounded--circle img {
-		  width: 100%;
-		  height: auto;
-		}
 	}
 
 /* Footer */
