@@ -43,7 +43,7 @@ const HomeIndex = () => {
         <section id="two">
           <h2>About</h2>
           <p>
-            I am a proud American and a proud Immigrant. 
+            I am a proud American and a proud Immigrant. <img src="pic_12.jpg" alt="Myself on my LA visit" style="width:1050px;height:865px;"></img>
           </p>
           <p>
             I grew up in India but my family and I migrated to America 
