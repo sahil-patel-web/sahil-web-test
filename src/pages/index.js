@@ -43,9 +43,9 @@ const HomeIndex = () => {
 
         <section id="two">
           <h2>About</h2>
-          <right>              
-                <img src={pic_12} class="rounded--circle" alt="From trip to LA" width="210" height="173"></img>
-          </right>
+          <div class="rounded--circle">
+            <img src={pic_12} />
+          </div>
           <p>
             I am a proud American and a proud Immigrant. 
           </p>
