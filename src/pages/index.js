@@ -45,7 +45,7 @@ const HomeIndex = () => {
           <h2>About</h2>
           <center>              
               <a href="#">
-                <img src={pic_12} class="rounded-circle" alt="" />
+                <img src={pic_12} class="rounded-circle" alt="size" style="width:200;height:200;" />
               </a>
           </center>
           <p>
