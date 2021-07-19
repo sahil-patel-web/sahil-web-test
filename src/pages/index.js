@@ -44,7 +44,7 @@ const HomeIndex = () => {
           <h2>About 
             <right> 
               <a href="#" className="Pic">
-                <img src={pic_12.jpg} alt="" />
+                <img src={pic_12} alt="" />
               </a>
             </right>
           </h2>
