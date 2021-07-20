@@ -76,7 +76,7 @@ const HomeIndex = () => {
                   <div className="content">
                     <img src={col} />
                     <h3>Hello</h3>
-                    <p>Now..</p>
+                    <p>Now.jvnnlvdxzhjblvxjkdbhdxjkvdfhnvl.kxdjzcfbnlxkdjbdbjkdlfbnjxkdhnvb.</p>
                   </div>
                 </div>
 
