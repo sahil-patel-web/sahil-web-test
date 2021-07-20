@@ -131,6 +131,10 @@
 		font-size: 0.7em;
 		line-height: 1.5em;
 	}
+	h6 {
+		font-size: 1.6em;
+		line-height: 1em;
+	}
 
 	sub {
 		font-size: 0.8em;
@@ -791,9 +795,11 @@
 	}
 	
 	.rounded--circle {
-	float:right;
-	width: 125px;
-	height: 125px;
+	display:block;
+    margin-left: auto;
+    margin-right: auto;
+	width: 175px;
+	height: 175px;
 	overflow: hidden;
 	border-radius: 50%;
 	}
