@@ -75,8 +75,10 @@ const HomeIndex = () => {
                 <div className="coolumn">
                   <div className="content">
                     <img src={col} />
-                    <h3>Hello</h3>
-                    <p>Now.jvnnlvdxzhjblvxjkdbhdxjkvdfhnvl.kxdjzcfbnlxkdjbdbjkdlfbnjxkdhnvb.</p>
+                    <h3>Columbia University <br />
+                        06/21 - Present
+                    </h3>
+                    <p></p>
                   </div>
                 </div>
 
