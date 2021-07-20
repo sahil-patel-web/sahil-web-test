@@ -202,49 +202,7 @@
 	.align-right {
 		text-align: right;
 	}
-	
-	.roow {
-	  margin: 8px -16px;
-	}
 
-	/* Add padding BETWEEN each column (if you want) */
-	.roow,
-	.roow > .coolumn {
-	  padding: 8px;
-	}
-
-	/* Create four equal columns that floats next to each other */
-	.coolumn {
-	  float: left;
-	  width: 25%;
-	}
-	
-	/* Clear floats after rows */
-	.roow:after {
-	  content: "";
-	  display: table;
-	  clear: both;
-	}
-
-	/* Content */
-	.coontent {
-	  background-color: white;
-	  padding: 10px;
-	}
-
-	/* Responsive layout - makes a two column-layout instead of four columns */
-	@media screen and (max-width: 900px) {
-	  .coolumn {
-		width: 50%;
-	  }
-	}
-
-	/* Responsive layout - makes the two columns stack on top of each other instead of next to each other */
-	@media screen and (max-width: 600px) {
-	  .coolumn {
-		width: 100%;
-	  }
-	}
 	
 	
 	
@@ -854,6 +812,48 @@
 	.rounded--circle img {
 	width: 100%;
 	height: auto;
+	}
+	
+	*{
+		box-sizing: border-box;
+	}
+	.roow {
+		margin: 8px -16px;
+	}
+
+
+	.roow,
+	.roow > .coolumn {
+		padding: 8px;
+	}
+
+	.coolumn {
+		float: left;
+		width: 25%;
+	}
+	
+	.roow:after {
+		coontent: "";
+		display: table;
+		clear: both;
+	}
+
+
+	.coontent {
+		background-color: white;
+		padding: 10px;
+	}
+
+	@media screen and (max-width: 900px) {
+		.coolumn {
+			width: 50%;
+		}
+	}
+
+	@media screen and (max-width: 600px) {
+		.coolumn {
+			width: 100%;
+		}
 	}
 
 
