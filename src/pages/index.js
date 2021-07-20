@@ -70,8 +70,7 @@ const HomeIndex = () => {
           <h2>Projects</h2>
 
 
-            <div class="content">
-                <p>hi</p>
+            <div class="maain">
                 <div className="content">
                   <img src={col} />
                   <h3>Hello</h3>
