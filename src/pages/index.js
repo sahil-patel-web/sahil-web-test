@@ -88,6 +88,22 @@ const HomeIndex = () => {
                   </div>
                 </div>
 
+                <div className="coolumn">
+                  <div className="content">
+                    <img src={iitgn} />
+                    <h3>Hello</h3>
+                    <p>Now..</p>
+                  </div>
+                </div>
+
+                <div className="coolumn">
+                  <div className="content">
+                    <img src={tamu} />
+                    <h3>Hello</h3>
+                    <p>Now..</p>
+                  </div>
+                </div>
+
 
 
               </div>
