@@ -83,7 +83,8 @@ const HomeIndex = () => {
                       Present
                     </p>
                     <sub>
-                      High dimensional statistis
+                      Investigating and improving Tensor Decomposition applications for high-dimensional data in noise normalizing, 
+                      modelling and recovering corrected information.   
                     </sub>
                   </div>
                 </div>
@@ -94,12 +95,13 @@ const HomeIndex = () => {
                     <h3>Texas A&amp;M University 
                     </h3>
                     <p>
-                      SMAC Tracker <br />
+                      SMAC Tracker - Class Project<br />
                       01/20 - 05/20
                     </p>
                     <sub>
                       Developed (as a team) a Google Chrome extension that tracks/analyzes user's social media
-                      using Knockout UI and Bootstrap-JS.
+                      using React-JS and Bootstrap-JS. Created (as a team) front-end to show changes in analytics
+                      using Knockout UI and Chrome API.
                     </sub>
 
                   </div>
