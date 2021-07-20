@@ -221,7 +221,7 @@
 	
 	/* Clear floats after rows */
 	.roow:after {
-	  coontent: "";
+	  content: "";
 	  display: table;
 	  clear: both;
 	}
