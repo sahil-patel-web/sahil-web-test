@@ -69,30 +69,31 @@ const HomeIndex = () => {
         <section id="four">
           <h2>Projects</h2>
 
-          <div class="row">
-            <div class="column">
-              <div class="content">
+
+          <div class="roow">
+            <div class="coolumn">
+              <div class="coontent">
                 <img src="col.jpg" alt="Mountains" style="width:100%" />
                 <h3>My Work</h3>
                 <p>Lorem ipsum..</p>
               </div>
             </div>
-            <div class="column">
-              <div class="content">
+            <div class="coolumn">
+              <div class="coontent">
                 <img src="tamu.jpg" alt="Lights" style="width:100%" />
                 <h3>My Work</h3>
                 <p>Lorem ipsum..</p>
               </div>
             </div>
-            <div class="column">
-              <div class="content">
+            <div class="coolumn">
+              <div class="coontent">
                 <img src="iitgn.jpg" alt="Nature" style="width:100%" />
                 <h3>My Work</h3>
                 <p>Lorem ipsum..</p>
               </div>
             </div>
-            <div class="column">
-              <div class="content">
+            <div class="coolumn">
+              <div class="coontent">
                 <img src="tamu.jpg" alt="Mountains" style="width:100%" />
                 <h3>My Work</h3>
                 <p>Lorem ipsum..</p>
