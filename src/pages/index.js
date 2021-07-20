@@ -21,6 +21,7 @@ const HomeIndex = () => {
       <div id="main">
         <section id="one">
             <h2>
+              My name is Sahil Patel. <br />
               I am a Back-end software, Data Science and ML enthusiast.
             </h2>
 
