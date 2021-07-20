@@ -71,11 +71,13 @@ const HomeIndex = () => {
 
 
             <div class="maain">
+              <div className="roow">
                 <div className="content">
                   <img src={col} />
                   <h3>Hello</h3>
                   <p>Now..</p>
                 </div>
+              </div>
             </div>
           
 
