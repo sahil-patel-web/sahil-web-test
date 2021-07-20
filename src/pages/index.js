@@ -73,28 +73,28 @@ const HomeIndex = () => {
           <div class="roow">
             <div class="coolumn">
               <div class="coontent">
-                <img src="col.jpg" alt="Mountains" style="width:100%" />
+                <img src={col} alt="Mountains" style="width:100%" />
                 <h3>My Work</h3>
                 <p>Lorem ipsum..</p>
               </div>
             </div>
             <div class="coolumn">
               <div class="coontent">
-                <img src="tamu.jpg" alt="Lights" style="width:100%" />
+                <img src={tamu} alt="Lights" style="width:100%" />
                 <h3>My Work</h3>
                 <p>Lorem ipsum..</p>
               </div>
             </div>
             <div class="coolumn">
               <div class="coontent">
-                <img src="iitgn.jpg" alt="Nature" style="width:100%" />
+                <img src={iitgn} alt="Nature" style="width:100%" />
                 <h3>My Work</h3>
                 <p>Lorem ipsum..</p>
               </div>
             </div>
             <div class="coolumn">
               <div class="coontent">
-                <img src="tamu.jpg" alt="Mountains" style="width:100%" />
+                <img src={tamu} alt="Mountains" style="width:100%" />
                 <h3>My Work</h3>
                 <p>Lorem ipsum..</p>
               </div>
