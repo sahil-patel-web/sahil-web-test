@@ -834,7 +834,7 @@
 
 	.coolumn {
 		float: left;
-		width: 25%;
+		width: 50%;
 	}
 	
 	.roow:after {
@@ -858,7 +858,7 @@
 
 	@media screen and (max-width: 900px) {
 		.coolumn {
-			width: 50%;
+			width: 100%;
 		}
 	}
 
