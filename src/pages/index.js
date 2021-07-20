@@ -76,9 +76,10 @@ const HomeIndex = () => {
                   <div className="content">
                     <img src={col} />
                     <h3>
-                      Columbia University <br />
+                      Columbia University
                     </h3>
                     <p>
+                      MS Thesis <br />
                       Present
                     </p>
                     <sub>
@@ -90,7 +91,7 @@ const HomeIndex = () => {
                 <div className="coolumn">
                   <div className="content">
                     <img src={tamu} />
-                    <h3>Texas A &amp; M University 
+                    <h3>Texas A&amp;M University 
                     </h3>
                     <p>
                       SMAC Tracker <br />
@@ -107,7 +108,7 @@ const HomeIndex = () => {
                 <div className="coolumn">
                   <div className="content">
                     <img src={iitgn} />
-                    <h3>IIT Gandhinagar</h3>
+                    <h3>IIT GN</h3>
                     <p>
                       Summer Intern(CSCE) <br />
                       05/19 - 07/19
@@ -123,17 +124,15 @@ const HomeIndex = () => {
                 <div className="coolumn">
                   <div className="content">
                     <img src={tamu} />
-                    <h3>Texas A &amp; M University</h3>
+                    <h3>Texas A&amp;M University</h3>
                     <p>
-                      Aggie Research Scholars Program(Software Engineering Team) <br />
+                      ARP - Ugrad(Software Engineering Team) <br />
                       01/18 - 06/18
                     </p>
                     <sub>
                       Empirically tested practicality of 5 popular code documentation practices in C++ within a team.
-                      Designed and Proctored the study for 20 participants.
-                    </sub>
-                    <sub>
-                      Check out the news article that featured our work  
+                      Designed and Proctored the study for 20 participants. <br />
+                      Check out the news article on our work  
                       <a href="https://engineering.tamu.edu/news/2019/05/could-too-much-documentation-be-a-bad-thing-in-software-engineering.html"> here.</a>
                     </sub>
                   </div>
