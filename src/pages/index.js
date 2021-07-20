@@ -70,36 +70,7 @@ const HomeIndex = () => {
           <h2>Projects</h2>
 
 
-          <div class="roow">
-            <div class="coolumn">
-              <div class="coontent">
-                <img src={col} style="width:100%" />
-                <h3>My Work</h3>
-                <p>Lorem ipsum..</p>
-              </div>
-            </div>
-            <div class="coolumn">
-              <div class="coontent">
-                <img src={tamu} style="width:100%" />
-                <h3>My Work</h3>
-                <p>Lorem ipsum..</p>
-              </div>
-            </div>
-            <div class="coolumn">
-              <div class="coontent">
-                <img src={iitgn} style="width:100%" />
-                <h3>My Work</h3>
-                <p>Lorem ipsum..</p>
-              </div>
-            </div>
-            <div class="coolumn">
-              <div class="coontent">
-                <img src={tamu} style="width:100%" />
-                <h3>My Work</h3>
-                <p>Lorem ipsum..</p>
-              </div>
-            </div>
-          </div>
+         
 
 
 
