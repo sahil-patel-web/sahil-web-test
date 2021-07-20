@@ -838,6 +838,16 @@
 		width: 50%;
 	}
 	
+	.vertical,
+	.vertical > .horizontal2 {
+		padding: 8px;
+	}
+
+	.horizontal2 {
+		float: left;
+		width: 25%;
+	}
+	
 	.vertical:after {
 		content: "";
 		display: table;
@@ -859,7 +869,12 @@
 		background-color: white;
 		padding: 10px;
 	}
-
+	
+	@media screen and (max-width: 900px) {
+		.horizontal2 {
+			width: 100%;
+		}
+	}
 
 	@media screen and (max-width: 900px) {
 		.horizontal {

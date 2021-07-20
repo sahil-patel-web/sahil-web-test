@@ -67,7 +67,40 @@ const HomeIndex = () => {
 
           <div class="housing">
             <div className="vertical">
-              <div className="horizontal">
+              <div className="horizontal2">
+                <div className="tile2">
+                  <h3>Languages: </h3>
+                  <li>C++</li>
+                  <li>Python</li>
+                  <li>Java</li>
+                  <li>JavaScript</li>
+                  <li>C#</li>
+                  <li>R</li>
+                </div>
+              </div>
+              <div className="horizontal2">
+                <div className="tile2">
+                  <h3>Languages: </h3>
+                  <li>C++</li>
+                  <li>Python</li>
+                  <li>Java</li>
+                  <li>JavaScript</li>
+                  <li>C#</li>
+                  <li>R</li>
+                </div>
+              </div>
+              <div className="horizontal2">
+                <div className="tile2">
+                  <h3>Languages: </h3>
+                  <li>C++</li>
+                  <li>Python</li>
+                  <li>Java</li>
+                  <li>JavaScript</li>
+                  <li>C#</li>
+                  <li>R</li>
+                </div>
+              </div>
+              <div className="horizontal2">
                 <div className="tile2">
                   <h3>Languages: </h3>
                   <li>C++</li>
