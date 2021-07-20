@@ -70,13 +70,13 @@ const HomeIndex = () => {
           <h2>Projects</h2>
 
 
-
+            <div class="maain">
                 <div class="content">
                   <img src={col} style="width:100%"></img>
                   <h3>Hi</h3>
                   <p>hii</p>
                 </div>
-
+            </div>
           
 
 

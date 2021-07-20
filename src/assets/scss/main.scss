@@ -814,6 +814,10 @@
 	height: auto;
 	}
 	
+	.maain {
+	  max-width: 1000px;
+	  margin: auto;
+	}
 
 	.roow {
 		margin: 8px -16px;
@@ -842,7 +846,18 @@
 		padding: 10px;
 	}
 
-	
+	@media screen and (max-width: 900px) {
+		.coolumn {
+			width: 50%;
+		}
+	}
+
+	@media screen and (max-width: 600px) {
+		.coolumn {
+			width: 100%;
+		}
+	}
+
 
 /* Button */
 
