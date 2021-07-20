@@ -75,7 +75,6 @@ const HomeIndex = () => {
                   <li>Java</li>
                   <li>JavaScript</li>
                   <li>C#</li>
-                  <li>R</li>
                 </div>
               </div>
               <div className="horizontal2">
@@ -83,7 +82,6 @@ const HomeIndex = () => {
                   <h3>Data: </h3>
                   <li>TensorFlow</li>
                   <li>OpenCV</li>
-                  <li>AWS</li>
                   <li>SQL</li>
                   <li>PHP</li>
                 </div>
@@ -99,8 +97,10 @@ const HomeIndex = () => {
                 <div className="tile2">
                   <h3>Other: </h3>
                   <li>LateX</li>
+                  <li>AWS</li>
                   <li>Linux</li>
                   <li>Matlab</li>
+                  <li>R</li>
                 </div>
               </div>
             </div>
