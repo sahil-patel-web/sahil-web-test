@@ -2,7 +2,7 @@ import React from 'react'
 import Helmet from 'react-helmet'
 
 import Layout from '../components/layout'
-import pic_12 from '../assets/images/pic_12.jpg'
+import pic_12 from '../assets/images/IMG_5094.jpg'
 import tamu from '../assets/images/tamu.jpg'
 import iitgn from '../assets/images/iitgn.jpg'
 import col from '../assets/images/col.jpg'
