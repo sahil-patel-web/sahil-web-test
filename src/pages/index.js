@@ -21,7 +21,6 @@ const HomeIndex = () => {
       <div id="main">
         <section id="one">
             <h2>
-              My name is Sahil Patel. <br />
               I am a Back-end software, Data Science and ML enthusiast.
             </h2>
 
@@ -65,6 +64,24 @@ const HomeIndex = () => {
 
         <section id="three">
           <h2>Skills</h2>
+
+          <div class="housing">
+            <div className="vertical">
+              <div className="horizontal">
+                <div className="tile2">
+                  <h3>Languages: </h3>
+                  <li>C++</li>
+                  <li>Python</li>
+                  <li>Java</li>
+                  <li>JavaScript</li>
+                  <li>C#</li>
+                  <li>R</li>
+                </div>
+              </div>
+            </div>
+          </div>
+
+
         </section>
 
         <section id="four">
