@@ -3,6 +3,9 @@ import Helmet from 'react-helmet'
 
 import Layout from '../components/layout'
 import pic_12 from '../assets/images/pic_12.jpg'
+import tamu from '../assets/images/tamu.jpg'
+import iitgn from '../assets/images/iitgn.jpg'
+import col from '../assets/images/col.jpg'
 
 const HomeIndex = () => {
   const siteTitle = 'Sahil Patel'
@@ -65,6 +68,43 @@ const HomeIndex = () => {
 
         <section id="four">
           <h2>Projects</h2>
+
+          <div class="row">
+            <div class="column">
+              <div class="content">
+                <img src="col.jpg" alt="Mountains" style="width:100%" />
+                <h3>My Work</h3>
+                <p>Lorem ipsum..</p>
+              </div>
+            </div>
+            <div class="column">
+              <div class="content">
+                <img src="tamu.jpg" alt="Lights" style="width:100%" />
+                <h3>My Work</h3>
+                <p>Lorem ipsum..</p>
+              </div>
+            </div>
+            <div class="column">
+              <div class="content">
+                <img src="iitgn.jpg" alt="Nature" style="width:100%" />
+                <h3>My Work</h3>
+                <p>Lorem ipsum..</p>
+              </div>
+            </div>
+            <div class="column">
+              <div class="content">
+                <img src="tamu.jpg" alt="Mountains" style="width:100%" />
+                <h3>My Work</h3>
+                <p>Lorem ipsum..</p>
+              </div>
+            </div>
+          </div>
+
+
+
+
+
+
         </section>
         
         <section id="five">
