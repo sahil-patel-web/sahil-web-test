@@ -84,7 +84,7 @@ const HomeIndex = () => {
                     </p>
                     <sub>
                       Investigating and improving Tensor Decomposition applications for high-dimensional data in noise normalizing, 
-                      modelling and recovering corrected information.   
+                      modelling and recovering corrected information. (May change a little in future)  
                     </sub>
                   </div>
                 </div>
@@ -99,9 +99,8 @@ const HomeIndex = () => {
                       01/20 - 05/20
                     </p>
                     <sub>
-                      Developed (as a team) a Google Chrome extension that tracks/analyzes user's social media
-                      using React-JS and Bootstrap-JS. Created (as a team) front-end to show changes in analytics
-                      using Knockout UI and Chrome API.
+                      Developed (as a team) a Google Chrome extension that tracks user social media
+                      using React-JS and Bootstrap-JS. Used Knockout UI and Chrome API for front-end to show analytics in real-time.
                     </sub>
 
                   </div>
@@ -132,8 +131,8 @@ const HomeIndex = () => {
                       01/18 - 06/18
                     </p>
                     <sub>
-                      Empirically tested practicality of 5 popular code documentation practices in C++ within a team.
-                      Designed and Proctored the study for 20 participants. <br />
+                      Empirically tested (as a team) practicality of 5 code documentation practices in C++.
+                      Designed and Proctored the study for 20 participants.
                       Check out the news article on our work  
                       <a href="https://engineering.tamu.edu/news/2019/05/could-too-much-documentation-be-a-bad-thing-in-software-engineering.html"> here.</a>
                     </sub>
