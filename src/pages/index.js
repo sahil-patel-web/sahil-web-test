@@ -70,10 +70,10 @@ const HomeIndex = () => {
           <h2>Projects</h2>
 
 
-            <div class="maain">
-              <div className="roow">
-                <div className="coolumn">
-                  <div className="content">
+            <div class="housing">
+              <div className="vertical">
+                <div className="horizontal">
+                  <div className="tile">
                     <img src={col} />
                     <h3>
                       Columbia University
@@ -89,8 +89,8 @@ const HomeIndex = () => {
                   </div>
                 </div>
 
-                <div className="coolumn">
-                  <div className="content">
+                <div className="horizontal">
+                  <div className="tile">
                     <img src={tamu} />
                     <h3>Texas A&amp;M University 
                     </h3>
@@ -106,8 +106,8 @@ const HomeIndex = () => {
                   </div>
                 </div>
 
-                <div className="coolumn">
-                  <div className="content">
+                <div className="horizontal">
+                  <div className="tile">
                     <img src={iitgn} />
                     <h3>IIT GN</h3>
                     <p>
@@ -122,12 +122,12 @@ const HomeIndex = () => {
                   </div>
                 </div>
 
-                <div className="coolumn">
-                  <div className="content">
+                <div className="horizontal">
+                  <div className="tile">
                     <img src={tamu} />
                     <h3>Texas A&amp;M University</h3>
                     <p>
-                      ARP - Ugrad(Software Engineering Team) <br />
+                      ARP (Software Engineering Team) <br />
                       01/18 - 06/18
                     </p>
                     <sub>
