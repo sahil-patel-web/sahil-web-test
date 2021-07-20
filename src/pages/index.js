@@ -90,7 +90,7 @@ const HomeIndex = () => {
                 <div className="tile2">
                   <h3>Frontend: </h3>
                   <li>React</li>
-                  <li>Gatsby.js</li>
+                  <li>Knockout-JS</li>
                 </div>
               </div>
               <div className="horizontal2">
