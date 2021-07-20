@@ -68,8 +68,6 @@ const HomeIndex = () => {
 
         <section id="four">
           <h2>Projects</h2>
-
-
             <div class="housing">
               <div className="vertical">
                 <div className="horizontal">
@@ -143,13 +141,7 @@ const HomeIndex = () => {
 
               </div>
             </div>
-          
-
-
-
-
-
-
+          <p>Hello</p>
         </section>
         
         <section id="five">
