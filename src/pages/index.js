@@ -75,34 +75,67 @@ const HomeIndex = () => {
                 <div className="coolumn">
                   <div className="content">
                     <img src={col} />
-                    <h3>Columbia University <br />
-                        06/21 - Present
+                    <h3>
+                      Columbia University <br />
                     </h3>
-                    <p></p>
+                    <p>
+                      Present
+                    </p>
+                    <sub>
+                      High dimensional statistis
+                    </sub>
                   </div>
                 </div>
 
                 <div className="coolumn">
                   <div className="content">
                     <img src={tamu} />
-                    <h3>Hello</h3>
-                    <p>Now..</p>
+                    <h3>Texas A &amp; M University 
+                    </h3>
+                    <p>
+                      SMAC Tracker <br />
+                      01/20 - 05/20
+                    </p>
+                    <sub>
+                      Developed (as a team) a Google Chrome extension that tracks/analyzes user's social media
+                      using Knockout UI and Bootstrap-JS.
+                    </sub>
+
                   </div>
                 </div>
 
                 <div className="coolumn">
                   <div className="content">
                     <img src={iitgn} />
-                    <h3>Hello</h3>
-                    <p>Now..</p>
+                    <h3>IIT Gandhinagar</h3>
+                    <p>
+                      Summer Intern(CSCE) <br />
+                      05/19 - 07/19
+                    </p>
+                    <sub>
+                      Improved efficiency of raw MFCC vectors clustering by factorizing signals using
+                      bi-directional-RNN and Tensor Decomposition (NTD) to create Music Recommendation System
+                      with 62% accuracy.
+                    </sub>
                   </div>
                 </div>
 
                 <div className="coolumn">
                   <div className="content">
                     <img src={tamu} />
-                    <h3>Hello</h3>
-                    <p>Now..</p>
+                    <h3>Texas A &amp; M University</h3>
+                    <p>
+                      Aggie Research Scholars Program(Software Engineering Team) <br />
+                      01/18 - 06/18
+                    </p>
+                    <sub>
+                      Empirically tested practicality of 5 popular code documentation practices in C++ within a team.
+                      Designed and Proctored the study for 20 participants.
+                    </sub>
+                    <sub>
+                      Check out the news article that featured our work  
+                      <a href="https://engineering.tamu.edu/news/2019/05/could-too-much-documentation-be-a-bad-thing-in-software-engineering.html"> here.</a>
+                    </sub>
                   </div>
                 </div>
 
