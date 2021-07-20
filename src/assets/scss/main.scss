@@ -814,6 +814,9 @@
 	height: auto;
 	}
 	
+	* {
+		box-sizing: border-box;
+	}
 	.maain {
 	  max-width: 1000px;
 	  margin: auto;

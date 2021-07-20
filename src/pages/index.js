@@ -71,7 +71,7 @@ const HomeIndex = () => {
 
 
             <div class="maain">
-                
+                <p>hi</p>
             </div>
           
 
