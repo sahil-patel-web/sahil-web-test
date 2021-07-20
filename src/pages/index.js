@@ -80,35 +80,27 @@ const HomeIndex = () => {
               </div>
               <div className="horizontal2">
                 <div className="tile2">
-                  <h3>Languages: </h3>
-                  <li>C++</li>
-                  <li>Python</li>
-                  <li>Java</li>
-                  <li>JavaScript</li>
-                  <li>C#</li>
-                  <li>R</li>
+                  <h3>Data: </h3>
+                  <li>TensorFlow</li>
+                  <li>OpenCV</li>
+                  <li>AWS</li>
+                  <li>SQL</li>
+                  <li>PHP</li>
                 </div>
               </div>
               <div className="horizontal2">
                 <div className="tile2">
-                  <h3>Languages: </h3>
-                  <li>C++</li>
-                  <li>Python</li>
-                  <li>Java</li>
-                  <li>JavaScript</li>
-                  <li>C#</li>
-                  <li>R</li>
+                  <h3>Frontend: </h3>
+                  <li>React</li>
+                  <li>Gatsby.js</li>
                 </div>
               </div>
               <div className="horizontal2">
                 <div className="tile2">
-                  <h3>Languages: </h3>
-                  <li>C++</li>
-                  <li>Python</li>
-                  <li>Java</li>
-                  <li>JavaScript</li>
-                  <li>C#</li>
-                  <li>R</li>
+                  <h3>Other: </h3>
+                  <li>LateX</li>
+                  <li>Linux</li>
+                  <li>Matlab</li>
                 </div>
               </div>
             </div>
