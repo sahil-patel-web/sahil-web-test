@@ -126,7 +126,7 @@ const HomeIndex = () => {
                     </p>
                     <sub>
                       Investigating and improving Tensor Decomposition applications for high-dimensional data in noise normalizing, 
-                      modelling and recovering corrected information. (May change a little in future)  
+                      modelling and recovering corrected information. (May change a little in the future)  
                     </sub>
                   </div>
                 </div>
@@ -189,7 +189,7 @@ const HomeIndex = () => {
         <div id="resume"></div>          
           <h2>Resume</h2>
 
-          <iframe src="https://drive.google.com/file/d/1TpLu8d1ihMkpYxg1EclgeQc4ivsvFe10/preview" width="770" height="990"></iframe>
+          <iframe src="https://drive.google.com/file/d/1PFIbVWDsYPq-5AJol2rczyHAwKkN_mjT/preview" width="770" height="990"></iframe>
         </section>
 
         <section id="special">
