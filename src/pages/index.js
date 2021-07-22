@@ -53,7 +53,7 @@ const HomeIndex = () => {
           </h2>
             
           <p>
-            I am a proud American<img src={flag} width="30" height="20" /> and a proud Immigrant. 
+            I am a proud American<img src={flag} width="17" height="12" /> and a proud Immigrant. 
           </p>
           <p>
             I grew up in India but my family and I migrated to America when I was 13. After 4 years, 3 states and 5 high schools, we finally 
