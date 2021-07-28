@@ -31,7 +31,7 @@ const HomeIndex = () => {
           </p>
           <p>
             While I work on my MS thesis, check out my undergrad thesis on Bayesian Network 
-            Identifiability <a href="https://drive.google.com/file/d/1TU7YuttlXNHp5jcboxy_kk83tj4ntfn2/preview">here.</a>
+            Identifiability <a href="https://hdl.handle.net/1969.1/194322">here.</a>
           </p>
 
           <br/>
@@ -184,6 +184,10 @@ const HomeIndex = () => {
 
               </div>
             </div>
+            <p>
+              Here is a short video I made in my undergrad AI course related to my project at IIT GN internship.
+              <iframe src="https://drive.google.com/file/d/1bqAy3kLjdUR2qd6pAcZclPBGSKh_eTne/preview" width="770" height="480" allow="autoplay"></iframe>
+            </p>
         </section>
         
         <section id="five">
