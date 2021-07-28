@@ -186,7 +186,7 @@ const HomeIndex = () => {
             </div>
             <p>
               Here is a short video I made in my undergrad AI course related to my project at IIT GN internship.
-              <iframe src="https://drive.google.com/file/d/1bqAy3kLjdUR2qd6pAcZclPBGSKh_eTne/preview" width="700" height="440" allow="autoplay; fullscreen"></iframe>
+              <iframe src="https://drive.google.com/file/d/1bqAy3kLjdUR2qd6pAcZclPBGSKh_eTne/preview&vq=hd720" width="700" height="440" allow="autoplay; fullscreen" quality="high"></iframe>
             </p>
         </section>
         
