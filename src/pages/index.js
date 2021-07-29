@@ -187,6 +187,7 @@ const HomeIndex = () => {
             <p>
               Here is a short video I made in my undergrad AI course related to my project at IIT GN internship.
               <iframe src="https://youtu.be/KgT-j_oFmT4" width="700" height="440" allow="autoplay; fullscreen"></iframe>
+              <iframe width="700" height="440" src="https://www.youtube.com/embed/KgT-j_oFmT4" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
             </p>
         </section>
         
