@@ -193,11 +193,12 @@ const HomeIndex = () => {
         <section id="links">
           <h2>Links</h2>
           <p>
-            <a href="https://github.com/sahil-showcase/website"> Repo - Website</a>
-			<a href="https://github.com/sahil-showcase/SMAC-extension"> Repo - SMAC Tracker - Chrome Extension</a>
-			<a href="https://github.com/sahil-showcase/315-DBMS"> Repo - DBMS for undergrad course</a>
-			<a href="https://github.com/sahil-showcase/toonroom"> Repo - ToonRoom</a>
-			<a href="https://engineering.tamu.edu/news/2019/05/could-too-much-documentation-be-a-bad-thing-in-software-engineering.html"> News Article on ARP Project</a>
+			
+            <a href="https://github.com/sahil-showcase/website"> Repo - Website</a>  <br />
+			<a href="https://github.com/sahil-showcase/SMAC-extension"> Repo - SMAC Tracker - Chrome Extension</a>  <br />
+			<a href="https://github.com/sahil-showcase/315-DBMS"> Repo - DBMS for undergrad course</a>  <br />
+			<a href="https://github.com/sahil-showcase/toonroom"> Repo - ToonRoom</a>  <br />
+			<a href="https://engineering.tamu.edu/news/2019/05/could-too-much-documentation-be-a-bad-thing-in-software-engineering.html"> News Article on ARP Project</a>  <br />
 			<a href="https://hdl.handle.net/1969.1/194322"> Undergraduate Thesis</a>
           </p>
         </section>
