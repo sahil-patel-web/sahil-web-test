@@ -189,7 +189,18 @@ const HomeIndex = () => {
               <iframe width="700" height="440" src="https://www.youtube.com/embed/KgT-j_oFmT4" frameborder="0" allow="autoplay" allowfullscreen></iframe>
             </p>
         </section>
-        
+		
+        <section id="links">
+          <h2>Links</h2>
+          <p>
+            <a href="https://github.com/sahil-showcase/website"> Repo - Website</a>
+			<a href="https://github.com/sahil-showcase/SMAC-extension"> Repo - SMAC Tracker - Chrome Extension</a>
+			<a href="https://github.com/sahil-showcase/315-DBMS"> Repo - DBMS for undergrad course</a>
+			<a href="https://github.com/sahil-showcase/toonroom"> Repo - ToonRoom</a>
+			<a href="https://engineering.tamu.edu/news/2019/05/could-too-much-documentation-be-a-bad-thing-in-software-engineering.html"> News Article on ARP Project</a>
+			<a href="https://hdl.handle.net/1969.1/194322"> Undergraduate Thesis</a>
+          </p>
+        </section>
         <section id="five">
         <div id="resume"></div>          
           <h2>Resume</h2>
@@ -197,7 +208,9 @@ const HomeIndex = () => {
           <iframe src="https://drive.google.com/file/d/1PFIbVWDsYPq-5AJol2rczyHAwKkN_mjT/preview" width="770" height="990"></iframe>
         </section>
 
-        <section id="special">
+        
+		
+		<section id="special">
           <h2>Hobbies</h2>
           <p>
             I enjoy running and cooking!
