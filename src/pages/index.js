@@ -22,7 +22,7 @@ const HomeIndex = () => {
       <div id="main">
         <section id="one">
             <h2>
-              I am a Back-end software, UI and Data Science enthusiast.
+              I am a Back-end software, ML and Data Science enthusiast.
             </h2>
 
           <p>
