@@ -18,20 +18,17 @@ const HomeIndex = () => {
         <title>{siteTitle}</title>
         <meta name="description" content={siteDescription} />
       </Helmet>
-]
+
       <div id="main">
         <section id="one">
             <h2>
-              I am a Back-end software, ML and Data Science enthusiast.
+              I am a homecook turned data nerd.
             </h2>
 
           <p>
-            I am currently a MSCS student at Columbia University under the ML track. For the thesis, I am working
-            on high-dimensional data information retrieval for noisy data. 
-          </p>
-          <p>
-            While I work on my MS thesis, check out my undergrad thesis on Bayesian Network 
-            Identifiability <a href="https://hdl.handle.net/1969.1/194322">here.</a>
+            I excel in translating complex data into digestible business insights. In my studies, I have applied traditional analysis methods as well 
+            as latest Machine Learning powered analysis methods to study elements such as Company Annual Reports and CEO Pitches. 
+            Now, I look to help my teams/clients reform data streams and identify relevances from data all to make impactful decisions. 
           </p>
 
           <br/>
@@ -58,7 +55,7 @@ const HomeIndex = () => {
           <p>
             I grew up in India but my family and I migrated to America when I was 13. After 4 years, 3 states and 5 high schools, we finally 
             found financial/familial stability in the Greater Houston area. In 2017, I joined TAMU for my Bachelor's in Computer Science
-            and a minor in Statistics. Finally, I moved to NYC to join the MSCS program at Columbia University. 
+            and a minor in Statistics. Finally, I moved to NYC to join the MSCS program at Columbia University under the Machine Learning Track. 
           </p>
           
         </section>
@@ -73,35 +70,35 @@ const HomeIndex = () => {
                   <h3>Languages: </h3>
                   <li>C++</li>
                   <li>Python</li>
-                  <li>Java</li>
                   <li>JavaScript</li>
-                  <li>C#</li>
+                  <li>SQL</li>
                 </div>
               </div>
               <div className="horizontal2">
                 <div className="tile2">
-                  <h3>Data: </h3>
-                  <li>TensorFlow</li>
-                  <li>OpenCV</li>
-                  <li>SQL</li>
+                  <h3>Data Handling: </h3>
+                  <li>Python Libraries (scikit-learn, TensorFlow, Pandas)</li>
+                  <li>R Libraries (Dplyr, ggplot2)</li>
+                  <li>Hadoop</li>
                   <li>PHP</li>
                 </div>
               </div>
               <div className="horizontal2">
                 <div className="tile2">
-                  <h3>Frontend: </h3>
-                  <li>React</li>
-                  <li>Knockout-JS</li>
+                  <h3>Data Modeling: </h3>
+                  <li>Tableau</li>
+                  <li>Power BI</li>
+                  <li>SVG - JavaScript</li>
                 </div>
               </div>
               <div className="horizontal2">
                 <div className="tile2">
                   <h3>Other: </h3>
-                  <li>LateX</li>
-                  <li>AWS</li>
-                  <li>Linux</li>
+                  <li>MS Office (Excel, PowerPoint)</li>
+                  <li>Agile SDLC</li>
+                  <li>React</li>
+                  <li>AWS cloud</li>
                   <li>Matlab</li>
-                  <li>R</li>
                 </div>
               </div>
             </div>
@@ -188,6 +185,10 @@ const HomeIndex = () => {
               Here is a short video I made in my undergrad AI course related to my project at IIT GN internship.
               <iframe width="700" height="440" src="https://www.youtube.com/embed/KgT-j_oFmT4" frameborder="0" allow="autoplay" allowfullscreen></iframe>
             </p>
+            <p>
+              Here is a NBA international player roster data visual I created in a course at Columbia University.
+              <iframe width="700" height="876" frameborder="0" src="https://observablehq.com/embed/@ecd594bc6d2b7e38/rise-of-international-players-in-the-nba?cells=viewof+year_n%2Ckey%2Cnetwork_chart"></iframe>
+            </p>
         </section>
 		
         <section id="links">
@@ -195,11 +196,11 @@ const HomeIndex = () => {
           <p>
 			
             <a href="https://github.com/sahil-showcase/website"> Repo - Website</a>  <br />
-			<a href="https://github.com/sahil-showcase/SMAC-extension"> Repo - SMAC Tracker - Chrome Extension</a>  <br />
-			<a href="https://github.com/sahil-showcase/315-DBMS"> Repo - DBMS for undergrad course</a>  <br />
+            
+      <a href="https://observablehq.com/@ecd594bc6d2b7e38/rise-of-international-players-in-the-nba"> NBA International Player Data Analysis Project</a>  <br />
 			<a href="https://github.com/sahil-showcase/toonroom"> Repo - ToonRoom</a>  <br />
 			<a href="https://engineering.tamu.edu/news/2019/05/could-too-much-documentation-be-a-bad-thing-in-software-engineering.html"> News Article on ARP Project</a>  <br />
-			<a href="https://hdl.handle.net/1969.1/194322"> Undergraduate Thesis</a>
+			<a href="https://hdl.handle.net/1969.1/194322"> Undergraduate Thesis - TAMU Statistics Department</a>
           </p>
         </section>
         <section id="five">
