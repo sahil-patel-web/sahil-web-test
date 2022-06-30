@@ -68,8 +68,8 @@ const HomeIndex = () => {
               <div className="horizontal2">
                 <div className="tile2">
                   <h3>Languages: </h3>
-                  <li>C++</li>
                   <li>Python</li>
+                  <li>C++</li>
                   <li>JavaScript</li>
                   <li>SQL</li>
                 </div>
@@ -88,7 +88,7 @@ const HomeIndex = () => {
                   <h3>Data Modeling: </h3>
                   <li>Tableau</li>
                   <li>Power BI</li>
-                  <li>SVG - JavaScript</li>
+                  <li>Svg - JavaScript</li>
                 </div>
               </div>
               <div className="horizontal2">
@@ -185,10 +185,10 @@ const HomeIndex = () => {
               Here is a short video I made in my undergrad AI course related to my project at IIT GN internship.
               <iframe width="700" height="440" src="https://www.youtube.com/embed/KgT-j_oFmT4" frameborder="0" allow="autoplay" allowfullscreen></iframe>
             </p>
-            <p>
+            {/* <p>
               Here is a NBA international player roster data visual I created in a course at Columbia University.
               <iframe width="700" height="876" frameborder="0" src="https://observablehq.com/embed/@ecd594bc6d2b7e38/rise-of-international-players-in-the-nba?cells=viewof+year_n%2Ckey%2Cnetwork_chart"></iframe>
-            </p>
+            </p> */}
         </section>
 		
         <section id="links">
