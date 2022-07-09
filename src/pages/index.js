@@ -183,8 +183,9 @@ const HomeIndex = () => {
             </p>
             <p>
               Here is a NBA international player roster data visual I created in a course at Columbia University.
-              <iframe width="769" height="900" frameborder="0"  src="https://observablehq.com/embed/@ecd594bc6d2b7e38/nba_web?cells=viewof+year_n%2Cnetwork_chart%2Ckey2"></iframe>
+              <iframe width="1000" height="900" frameborder="0"  src="https://observablehq.com/embed/@ecd594bc6d2b7e38/nba_web?cells=viewof+year_n%2Cnetwork_chart%2Ckey2"></iframe>
             </p>
+
         </section>
 		
         <section id="links">
