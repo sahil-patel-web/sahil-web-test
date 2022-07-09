@@ -48,10 +48,6 @@ const HomeIndex = () => {
               <img src={pic_12} />
             </div> 
           </h2>
-            
-          <p>
-            I am a proud American <img src={flag} width="17" height="12" /> and a proud Immigrant. 
-          </p>
           <p>
             I grew up in India but my family and I migrated to America when I was 13. After 4 years, 3 states and 5 high schools, we finally 
             found financial/familial stability in the Greater Houston area. In 2017, I joined TAMU for my Bachelor's in Computer Science
@@ -78,7 +74,7 @@ const HomeIndex = () => {
                 <div className="tile2">
                   <h3>Data Handling: </h3>
                   <li>Python Libraries (scikit-learn, TensorFlow, Pandas)</li>
-                  <li>R Libraries (Dplyr, ggplot2)</li>
+                  <li>RStudio/R Libraries (Dplyr, ggplot2)</li>
                   <li>Hadoop</li>
                   <li>PHP</li>
                 </div>
@@ -183,12 +179,12 @@ const HomeIndex = () => {
             </div>
             <p>
               Here is a short video I made in my undergrad AI course related to my project at IIT GN internship.
-              <iframe width="700" height="440" src="https://www.youtube.com/embed/KgT-j_oFmT4" frameborder="0" allow="autoplay" allowfullscreen></iframe>
+              <iframe width="770" height="440" src="https://www.youtube.com/embed/KgT-j_oFmT4" frameborder="0" allow="autoplay" allowfullscreen></iframe>
             </p>
-            {/* <p>
+            <p>
               Here is a NBA international player roster data visual I created in a course at Columbia University.
-              <iframe width="700" height="876" frameborder="0" src="https://observablehq.com/embed/@ecd594bc6d2b7e38/rise-of-international-players-in-the-nba?cells=viewof+year_n%2Ckey%2Cnetwork_chart"></iframe>
-            </p> */}
+              <iframe width="770" height="876" frameborder="0"  src="https://observablehq.com/embed/@ecd594bc6d2b7e38/nba_web?cells=viewof+year_n%2Cnetwork_chart%2Ckey2"></iframe>
+            </p>
         </section>
 		
         <section id="links">
