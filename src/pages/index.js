@@ -115,12 +115,12 @@ const HomeIndex = () => {
                       Columbia University
                     </h3>
                     <p>
-                      MS Thesis <br />
+                      The Steve Jobs Effect (CEO Pitches Analysis) - Class Project<br />
                       Present
                     </p>
                     <sub>
-                      Investigating and improving Tensor Decomposition applications for high-dimensional data in noise normalizing, 
-                      modelling and recovering corrected information. (May change a little in the future)  
+                      Investigating plonology and language use in consumer product by CEOs through automatic speech recoginition models.
+                      Improving phonemic comparison between CEOs of different genders through implementing dynamic signal threshold normalization step.  
                     </sub>
                   </div>
                 </div>
@@ -145,9 +145,9 @@ const HomeIndex = () => {
                 <div className="horizontal">
                   <div className="tile">
                     <img src={iitgn} />
-                    <h3>IIT GN</h3>
+                    <h3>IIT Gandhinagar</h3>
                     <p>
-                      Summer Intern(CSCE) <br />
+                      Summer Research Intern <br />
                       05/19 - 07/19
                     </p>
                     <sub>
@@ -183,6 +183,10 @@ const HomeIndex = () => {
             </p>
             <p>
               Here is a NBA international player roster data visual I created in a course at Columbia University.
+              <iframe width="769" height="900" frameborder="0"  src="https://observablehq.com/embed/@ecd594bc6d2b7e38/nba_web?cells=viewof+year_n%2Cnetwork_chart%2Ckey2"></iframe>
+            </p>
+            <p>
+              Here is 
               <iframe width="769" height="900" frameborder="0"  src="https://observablehq.com/embed/@ecd594bc6d2b7e38/nba_web?cells=viewof+year_n%2Cnetwork_chart%2Ckey2"></iframe>
             </p>
 
