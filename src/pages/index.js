@@ -115,12 +115,11 @@ const HomeIndex = () => {
                       Columbia University
                     </h3>
                     <p>
-                      The Steve Jobs Effect (CEO Pitches Analysis) - Class Project<br />
+                      The Steve Jobs Effect - Class Project<br />
                       Present
                     </p>
                     <sub>
-                      Investigating plonology and language use in consumer product by CEOs through automatic speech recoginition models.
-                      Improving phonemic comparison between CEOs of different genders through implementing dynamic signal threshold normalization step.  
+                      Investigating plonology/language-use in consumer product showcase pitches by CEOs through automatic speech recoginition models. 
                     </sub>
                   </div>
                 </div>
