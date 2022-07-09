@@ -183,21 +183,7 @@ const HomeIndex = () => {
             </p>
             <p>
               Here is a NBA international player roster data visual I created in a course at Columbia University.
-              <div id="observablehq-viewof-year_n-f9d8abde"></div>
-              <div id="observablehq-network_chart-f9d8abde"></div>
-              <div id="observablehq-key2-f9d8abde"></div>
-              <p>Credit: <a href="https://observablehq.com/@ecd594bc6d2b7e38/nba_web">Rise of International Players in the NBA by Sahil Patel</a></p>
-
-              <script type="module">
-              import {Runtime, Inspector} from "https://cdn.jsdelivr.net/npm/@observablehq/runtime@4/dist/runtime.js";
-              import define from "https://api.observablehq.com/d/3f2acb61d863c6d3@829.js?v=3";
-              new Runtime().module(define, name => {
-                if (name === "viewof year_n") return new Inspector(document.querySelector("#observablehq-viewof-year_n-f9d8abde"));
-                if (name === "network_chart") return new Inspector(document.querySelector("#observablehq-network_chart-f9d8abde"));
-                if (name === "key2") return new Inspector(document.querySelector("#observablehq-key2-f9d8abde"));
-                return ["lines"].includes(name);
-              });
-              </script>
+              <iframe width="100%" height="700" frameborder="0"  src="https://observablehq.com/embed/@ecd594bc6d2b7e38/nba_web?cells=viewof+year_n%2Cnetwork_chart%2Ckey2"></iframe>
             </p>
         </section>
 		
