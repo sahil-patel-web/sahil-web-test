@@ -115,7 +115,7 @@ const HomeIndex = () => {
                       Columbia University
                     </h3>
                     <p>
-                      The Steve Jobs Impact (on CEO  Pitches) - Class Project<br />
+                      The Steve Jobs Effect (on CEO Product Pitches) - Class Project<br />
                       Present
                     </p>
                     <sub>
