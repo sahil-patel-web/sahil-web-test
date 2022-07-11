@@ -119,7 +119,7 @@ const HomeIndex = () => {
                       Present
                     </p>
                     <sub>
-                      Investigating plonology/language-use in consumer product showcase pitches by CEOs through automatic speech recoginition models. 
+                      Investigating plonology/language-use in consumer product pitches by CEOs through automatic speech recoginition models. 
                     </sub>
                   </div>
                 </div>
@@ -184,10 +184,7 @@ const HomeIndex = () => {
               Here is a NBA international player roster data visual I created in a course at Columbia University.
               <iframe width="769" height="900" frameborder="0"  src="https://observablehq.com/embed/@ecd594bc6d2b7e38/nba_web?cells=viewof+year_n%2Cnetwork_chart%2Ckey2"></iframe>
             </p>
-            {/* <p>
-              Here is 
-              <iframe width="769" height="900" frameborder="0"  src="https://observablehq.com/embed/@ecd594bc6d2b7e38/nba_web?cells=viewof+year_n%2Cnetwork_chart%2Ckey2"></iframe>
-            </p> */}
+
 
         </section>
 		
