@@ -177,14 +177,20 @@ const HomeIndex = () => {
               </div>
             </div>
             <p>
-              Here is a short video I made in my undergrad AI course related to my project at IIT GN internship.
+              <h3>MIR Walkthrough</h3>
+              Here is a short video I made in my undergrad AI course related to my project at IIT Gandhinagar internship.
               <iframe width="770" height="440" src="https://www.youtube.com/embed/KgT-j_oFmT4" frameborder="0" allow="autoplay" allowfullscreen></iframe>
             </p>
             <p>
-              Here is a NBA international player roster data visual I created in a course at Columbia University.
+              <h3>NBA International Player Network Graph</h3>
+              Here is a NBA international player roster data visual I created in my Data Visualization course at Columbia University. You can interact with the year slider or the graph itself to view more information.
               <iframe width="769" height="900" frameborder="0"  src="https://observablehq.com/embed/@ecd594bc6d2b7e38/nba_web?cells=viewof+year_n%2Cnetwork_chart%2Ckey2"></iframe>
             </p>
-
+            <p>
+              <h3>Shareholder Letter NLP-based Analysis</h3>
+              Here are summary box-plots for my course project in my Empirical Data Science course at Columbia University. You can interact with the feature select menu to view the data or the graph itself to view letter information (ticker and year of release).
+              <iframe width="769" height="577" frameborder="0" src="https://observablehq.com/embed/@ecd594bc6d2b7e38/shareholder?cells=viewof+charV%2Cboxchart"></iframe>
+            </p>
 
         </section>
 		
