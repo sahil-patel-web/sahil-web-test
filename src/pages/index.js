@@ -189,7 +189,7 @@ const HomeIndex = () => {
             <p>
               <h3>Shareholder Letter NLP-based Analysis</h3>
               Here are summary box-plots for my course project in my Empirical Data Science course at Columbia University. You can interact with the feature select menu to view the data or the graph itself to view letter information (ticker and year of release).
-              <iframe width="769" height="577" frameborder="0" src="https://observablehq.com/embed/@ecd594bc6d2b7e38/shareholder?cells=viewof+charV%2Cboxchart"></iframe>
+              <iframe width="769" height="600" frameborder="0" src="https://observablehq.com/embed/@ecd594bc6d2b7e38/shareholder?cells=viewof+charV%2Cboxchart"></iframe>
             </p>
 
         </section>
