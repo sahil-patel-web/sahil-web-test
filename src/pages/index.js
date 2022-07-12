@@ -191,7 +191,7 @@ const HomeIndex = () => {
             </br>
             <p>
               <h3>NBA International Player Network Graph</h3>
-              Here is a NBA international player roster data visual I created in my Data Visualization course at Columbia University. You can interact with the year slider or the graph itself to view more information. Data Scraped from www.basketball-reference.com. 
+              Here is a NBA international player roster data visual I created in my Data Visualization course at Columbia University. You can interact with the year slider or the graph itself to view more information. Data Scraped from www.basketball-reference.com. Original Report: <a href="https://observablehq.com/@ecd594bc6d2b7e38/rise-of-international-players-in-the-nba"> link.</a>
               
               <iframe width="769" height="1231" frameborder="0" src="https://observablehq.com/embed/@ecd594bc6d2b7e38/nba_web?cells=viewof+year_n%2Cnetwork_chart%2Ckey2%2Cpercent_chart"></iframe>
             </p>
