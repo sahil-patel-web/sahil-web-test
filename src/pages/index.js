@@ -201,8 +201,9 @@ const HomeIndex = () => {
             </br>
             <p>
               <h3>Shareholder Letter NLP-based Analysis</h3>
-              Here are summary box-plots for my course project in my Empirical Data Science course at Columbia University. The visual shows characteristics of letters released by NASDAQ-100 companies between 2016 and 2018. You can interact with the characteristic select menu or the graph itself to view letter information (ticker and year of release).
-              
+              Here are summary box-plots from my course project in my Empirical Data Science course at Columbia University. The visual shows characteristics of letters released by NASDAQ-100 companies between 2016 and 2018. You can interact with the select menu or the graph itself to view letter information (ticker and year of release).
+              <br>
+             </br>
               <iframe width="769" height="600" frameborder="0" src="https://observablehq.com/embed/@ecd594bc6d2b7e38/shareholder?cells=viewof+charV%2Cboxchart"></iframe>
             </p>
 
